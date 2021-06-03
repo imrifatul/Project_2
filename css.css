@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+body{
+    margin: 0;
+    background-color: #fcd206;
+    font-family: 'Oswald', sans-serif;
+}
+
+* {box-sizing: border-box;
+
+}
+
+.h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+.box {
+    background-color: #0db14854;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 30px 45px;
+    border-radius: 120px 50px;
+    box-shadow:  22px 22px 44px #b59704, -22px -22px 44px #ffff08;
+    font-family: 'Sigmar One', cursive;
+}
+
+img {
+    max-width: 100%;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #2b3674;
+}
+
+.p {
+    font-size: 20px;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+    display: flex;
+    overflow: hidden;
+}
+
+.product {
+    float: left;
+    width: 50%;
+    padding: 24px;
+    
+}
+
+.green{
+    
+background-color: green;
+}
+
+.grey{
+
+background-color: grey;
+}
+
+.h3{
+
+}
+
+h3 strong{
+
+}
+h3 span{   
+    font-size: 15px;
+    text-decoration: line-through;
+    font-weight: 300;
+
+
+}
